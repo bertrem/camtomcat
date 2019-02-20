@@ -1,14 +1,14 @@
 {
-   "name": "openstack",
-   "description": "Description for openstack.",
+   "name": "tomcat sinle instance test",
+   "description": "tomcat sinle instance test on openstack.",
    "type": "userCreated",
    "manifest": {
      "template_type": "Terraform",
      "template_format": "HCL",
-     "template_provider": "Other"
+     "template_provider": "openstack"
    },
    "metadata": {
-     "displayName": "openstack",
+     "displayName": "tomcat sinle instance test",
      "bullets": []
    }
  }
